@@ -1,0 +1,1 @@
+A collection of Power BI dashboard projects including Financial Analytics and IPL Analysis, showcasing interactive dashboards, DAX measures, Power Query transformations, data modeling, and business intelligence reporting.
